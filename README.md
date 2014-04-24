@@ -11,4 +11,7 @@ npm install opencv ncurses
 ```
 
 ## RUN
+
+```
 node run
+```
